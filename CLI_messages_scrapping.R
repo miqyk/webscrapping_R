@@ -115,7 +115,7 @@ initiation_message <- function(pages){
   )
   
   cli_alert(
-    "{.href [Politely](https://github.com/dmi3kno/polite)} downloading {pages_num} of film reviews from{.href [The guardian film website](https://www.theguardian.com/film+tone/reviews)}"
+    "{.href [Politely](https://github.com/dmi3kno/polite)} downloading {pages_num} of film reviews from {.href [The guardian film website](https://www.theguardian.com/film+tone/reviews)}"
   
   )
   
